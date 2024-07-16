@@ -1,0 +1,164 @@
+.inbox{
+    min-height: 100px;
+    margin: 15px 0px;
+}
+.sec1{
+    background-color: rgb(14, 117, 158);
+    /* min-height: 500px; */
+    margin: 15px;
+    text-align: center;
+    color: white;
+}
+.box{
+    background-color: white;
+    color: rgb(33, 110, 161);
+    padding: 15px;
+    text-decoration: none;
+
+}
+.sec2{
+    /* height: 250px; */
+    margin: 15px;
+    text-align: center;
+}
+a.box1{
+    background-color:white;
+    color: rgba(23, 37, 224, 0.973);
+    border-color: blue;
+    padding: 10px 15px;
+    text-decoration:none;
+    border: 1px solid blue;   
+}
+.sec3{
+    background-color: rgb(14, 117, 158);
+    /* height: 600px; */
+    padding:15px;
+    color: white;
+    position: relative;
+
+}
+div.retangle_box{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(14, 117, 158);
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: rotate(45deg);
+}
+.icon-container{
+    text-align: center;
+}
+.icon-container img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px double black;
+    padding: 10px;
+}
+.sec4{
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* height: 400px; */
+    padding: 15px;
+;
+    
+}
+a.box2{
+    background-color:white;
+    color:blue;
+    border-color: white;
+    padding: 15px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    border: 1px solid white;
+    
+}
+.inbox1{
+    text-align: center;
+}
+.inbox2,.inbox3{
+   height: 250px;
+}
+.margin-top{
+    margin-top: 50px;
+}
+.sec6{
+    background-color: black;
+    color: white;
+    /* height: 500px; */
+    text-align: center;
+    padding: 15px;
+}
+h1.done{
+    font-size: small;
+}
+p.halo{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a.box3{
+    background-color:white;
+    color:blue;
+    border-color: white;
+    padding: 15px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    border: 1px solid white;
+    
+}
+.icon-container1{
+    text-align: center;
+}
+.icon-container1 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    /* border: 2px double black; */
+    padding: 10px;
+}
+.inbox4{
+    text-align: center;
+}
+.social_media_container{
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.social_media{
+    width: 200px;
+    height: 20px;
+}
+
+/* @media(max-width:768px){
+    .inbox1,.box3{
+        width:50%;
+    }
+    .inbox,.inbox2,.inbox3,.inbox4{
+        width:100%;
+    }
+    .sec3{
+        height: 800px;
+    }
+    .inbox{
+        height: 200px;
+        margin: 0px 0px;
+    }
+    .go img{
+        margin-top: 20px;
+    }
+}
+@media(max-width:468px){
+    .inbox,.inbox1,.box3.inbox2,.inbox3,.inbox4{
+        width:100%;
+    }
+    .box{
+        width: 100%;
+    }
+} */
+ @media(max-width:468px){
+
+ }
+
